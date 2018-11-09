@@ -39,6 +39,10 @@ options. Just a few really helpful ones:
 Taken together, find can do some extremely powerful things in a single
 command.
 
+James, @jamesesdaile: 'cat'
+Prints all the text in a file to the terminal (not a word editor).
+Can be used with '|' and 'grep' to display a specific portion of the file. 
+
 Also a resource I use a lot, The UNIX Grymoire:
 http://www.grymoire.com/Unix/index.html
 Helpful, understandable tutorials on things like regular expressions, find,
